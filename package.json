@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "A Real Time Quiz Application built using Node.js, Express, Mongoose, Socket.io & Passport.",
   "scripts": {
-    "start": "node server.js",
-    "build":"netlify deploy --prod"
+    "start": "node server.js"
   },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
